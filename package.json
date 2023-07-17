@@ -2,7 +2,7 @@
   "name": "vite-plugin-mail",
   "description": "a vite plugin of send email after build",
   "author": "pikachu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "files": [
     "dist"
