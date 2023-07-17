@@ -26,12 +26,18 @@
     "@rollup/plugin-terser": "^0.4.3",
     "@rollup/plugin-typescript": "^11.1.2",
     "@types/node": "^20.4.2",
+    "@types/nodemailer": "^6.4.8",
+    "chalk": "^5.3.0",
     "rollup": "^3.26.2",
+    "rollup-plugin-dts": "^5.3.0",
     "tslib": "^2.6.0",
     "typescript": "^5.1.6",
-    "vite": "^4.4.4"
+    "vite": "^3.0.0"
   },
   "dependencies": {
     "nodemailer": "^6.9.3"
+  },
+  "peerDependencies": {
+    "vite": "^3.0.0"
   }
 }
